@@ -1,4 +1,9 @@
-# Day 1 dalam pembelajaran REACT
+# Day 1: Pembelajaran REACT 🚀
 
-# Ahmad Arif Choirudin Anas 
-# Kategori E-Commerce - sistem katalog digital
+---
+
+Hari pertama perjalanan saya mempelajari **REACT**.
+
+Saya **Ahmad Arif Choirudin Anas**, fokus pada pengembangan di bidang **E-Commerce** dengan spesialisasi pada **Sistem Katalog Digital**.
+
+---
